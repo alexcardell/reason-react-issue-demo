@@ -14,5 +14,4 @@
 - `yarn install`
 - `yarn server`
 - Notice errors in webpack-dev-server logs
-- `yarn build`
-- Notice everything is fixed
+- Hope the reason-react discord can shed light on why
