@@ -15,3 +15,5 @@
 - `yarn server`
 - Notice errors in webpack-dev-server logs
 - Hope the reason-react discord can shed light on why
+
+yarn.lock has reason-react@0.60 yet the files appear present at https://unpkg.com/reason-react@0.6.0/lib/bs/src/ 
